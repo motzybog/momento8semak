@@ -1,5 +1,6 @@
-# 🍽️ momentorest.ru
+# 🍽️ momentorest.ru 
 > Тестирование веб-сайта [momentorest.ru](https://momentorest.ru/about.html) 🚀
+> Техническое задание [Техническое задание]([https://momentorest.ru/about.html](https://github.com/motzybog/momento8semak/blob/test1/Техническое_задание.md))
 ---
 ## 📋 Краткое описание сайта
 
